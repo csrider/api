@@ -1,0 +1,22 @@
+{
+  "name": "api",
+  "version": "1.0.0",
+  "description": "A collection of my API work.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/csrider/api.git"
+  },
+  "author": "Chris Rider <csrider@gmail.com> (https://github.com/csrider)",
+  "license": "Apache-2.0",
+  "bugs": {
+    "url": "https://github.com/csrider/api/issues"
+  },
+  "homepage": "https://github.com/csrider/api#readme",
+  "dependencies": {
+    "express": "^4.18.1"
+  }
+}
